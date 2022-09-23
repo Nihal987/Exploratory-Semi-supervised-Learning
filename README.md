@@ -1,4 +1,4 @@
-# Exploratory-Semi-supervised-Learning
+# Exploratory analysis on imbalanced Medical Datasets
 
 ## Abstract
 In this project I evaluate and compare different methods of Semi-supervised learning on three different datasets. For the evaluation I record the Accuracy, F1-score,
